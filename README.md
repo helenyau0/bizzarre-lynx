@@ -92,7 +92,7 @@ For example:
 
 `10101 = 16 + 4 + 1 = 21`
 
-So `10101` is binary for `19`.
+So `10101` is binary for `21`.
 
 The [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number) has a similar property: any positive integer can be written in the form of Fibonacci numbers.
 
