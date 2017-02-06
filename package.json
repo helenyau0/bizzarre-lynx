@@ -1,0 +1,20 @@
+{
+  "name": "bizzarre-lynx",
+  "version": "1.0.0",
+  "description": "Benchmark goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Specs/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helenyau0/bizzarre-lynx.git"
+  },
+  "author": "Helen Yau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helenyau0/bizzarre-lynx/issues"
+  },
+  "homepage": "https://github.com/helenyau0/bizzarre-lynx#readme"
+}
